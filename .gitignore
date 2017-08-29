@@ -1,6 +1,6 @@
-
 # maven ignore
 target/
+!.mvn/wrapper/maven-wrapper.jar
 *.jar
 *.war
 *.zip
